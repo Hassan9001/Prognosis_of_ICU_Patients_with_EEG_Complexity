@@ -1,0 +1,252 @@
+sub-CCTC03:
+    -sub-CCTC03_task-taken_eeg
+    -sub-CCTC03_task-rest02_eeg
+    -sub-CCTC03_task-taken02_eeg
+    -sub-CCTC03_task-rest_eeg
+sub-CCTC04:
+    -sub-CCTC04_task-restredo_eeg
+    -sub-CCTC04_task-taken_eeg
+    -sub-CCTC04_task-rest_eeg
+sub-CCTC05:
+    -sub-CCTC05_task-RS_ST_Taken_eeg
+-----------ERROR--------------------------------------- sub-CCTC05_task-ERP_eeg
+sub-CCTC07:
+    -sub-CCTC07_task-rest_eeg
+    -sub-CCTC07_task-taken_eeg
+-----------ERROR--------------------------------------- sub-CCTC07_task-ERP_eeg
+sub-CCTC07NETICU:
+    -sub-CCTC07NETICU_task-sedon1rest_eeg
+    -sub-CCTC07NETICU_task-sedoffrest_eeg
+    -sub-CCTC07NETICU_task-sedofftaken_eeg
+    -sub-CCTC07NETICU_task-sedon1taken_eeg
+sub-HC01:
+    -sub-HC01_task-ST_eeg
+    -sub-HC01_task-IT_eeg
+sub-HC02:
+    -sub-HC02_task-Taken_eeg
+sub-HC03:
+    -sub-HC03_task-Taken_eeg
+sub-HC04:
+    -sub-HC04_task-Taken_eeg
+sub-HC05:
+    -sub-HC05_task-Taken_eeg
+sub-HC06:
+    -sub-HC06_task-Taken_eeg
+sub-HC07:
+    -sub-HC07_task-Taken_eeg
+sub-HC08:
+    -sub-HC08_task-Taken_eeg
+sub-HC09:
+    -sub-HC09_task-Taken_eeg
+sub-HC10:
+    -sub-HC10_task-Taken_eeg
+sub-HC11:
+    -sub-HC11_task-Taken_eeg
+sub-HC12:
+    -sub-HC12_task-Taken_eeg
+sub-HC13:
+    -sub-HC13_task-Taken_eeg
+sub-HC14:
+    -sub-HC14_task-Taken_eeg
+sub-HC15:
+    -sub-HC15_task-Taken_eeg
+sub-HC16:
+    -sub-HC16_task-Taken_eeg
+sub-HC17:
+    -sub-HC17_task-Taken_eeg
+sub-HC18:
+    -sub-HC18_task-Taken_eeg
+sub-MSICU05:
+    -sub-MSICU05_task-IT02_eeg
+-----------ERROR--------------------------------------- sub-MSICU05_task-tennis02_eeg
+    -sub-MSICU05_task-RS_ST_Taken_eeg
+    -sub-MSICU05_task-rest02_eeg
+    -sub-MSICU05_task-ST02_eeg
+sub-MSICU07:
+    -sub-MSICU07_task-RS_ST_Taken_Tennis_eeg
+sub-MSICU09:
+    -sub-MSICU09_task-taken_eeg
+    -sub-MSICU09_task-taken02_eeg
+    -sub-MSICU09_task-rest_eeg
+    -sub-MSICU09_task-rest02_eeg
+sub-MSICU10:
+    -sub-MSICU10_task-rest_eeg
+    -sub-MSICU10_task-taken_eeg
+-----------ERROR--------------------------------------- sub-MSICU10_task-scrambled_eeg (failed)
+sub-MSICU14:
+    -sub-MSICU14_task-rest_eeg
+    -sub-MSICU14_task-taken_eeg
+sub-MSICU15:
+    -sub-MSICU15_task-rest_eeg
+    -sub-MSICU15_task-taken_eeg
+sub-MSICU16:
+    -sub-MSICU16_task-rest_eeg
+    -sub-MSICU16_task-taken_eeg
+sub-MSICU18:
+    -sub-MSICU18_task-RS_ST_Taken_eeg
+sub-MSICU19:
+    -sub-MSICU19_task-RS_ST_Taken_eeg
+sub-MSICU21:
+    -sub-MSICU21_task-RS_ST_Taken_eeg
+sub-MSICU22:
+    -sub-MSICU22_task-RS_ST_Taken_eeg
+sub-MSICU26:
+    -sub-MSICU26_task-RS_ST_Taken_eeg
+sub-MSICU28:
+    -sub-MSICU28_task-RS_ST_Taken_eeg
+-----------ERROR--------------------------------------- sub-MSICU28_task-ERP_eeg
+sub-MSICU29:
+    -sub-MSICU29_task-RS_ST_Taken_eeg
+-----------ERROR--------------------------------------- sub-MSICU29_task-ERP_eeg (failed)
+sub-MSICU30:
+-----------ERROR--------------------------------------- sub-MSICU30_task-ERP_eeg
+    -sub-MSICU30_task-RS_ST_Taken_eeg
+sub-MSICU32:
+    -sub-MSICU32_task-rest_eeg
+    -sub-MSICU32_task-taken_eeg
+sub-MSICU38:
+    -sub-MSICU38_task-taken_eeg
+    -sub-MSICU38_task-rest_eeg
+-----------ERROR--------------------------------------- sub-MSICU38_task-ERP_eeg
+sub-MSICU42:
+    -sub-MSICU42_task-rest_eeg
+    -sub-MSICU42_task-taken_eeg
+sub-MSICU43:
+-----------ERROR--------------------------------------- sub-MSICU43_task-ERP_eeg
+    -sub-MSICU43_task-rest_eeg
+    -sub-MSICU43_task-taken_eeg
+sub-MSICU47:
+    -sub-MSICU47_task-rest_eeg
+-----------ERROR--------------------------------------- sub-MSICU47_task-ERP_eeg
+-----------ERROR--------------------------------------- .DS_Store
+    -sub-MSICU47_task-taken_eeg
+-----------ERROR--------------------------------------- ._.DS_Store
+sub-NETICU01:
+    -sub-NETICU01_task-sedon1taken_eeg
+    -sub-NETICU01_task-sedofftaken_eeg
+    -sub-NETICU01_task-sedon1rest_eeg
+    -sub-NETICU01_task-sedoffrest_eeg
+sub-NETICU02:
+    -sub-NETICU02_task-sedoffrest_eeg
+    -sub-NETICU02_task-sedon1taken_eeg
+    -sub-NETICU02_task-sedon1rest_eeg
+    -sub-NETICU02_task-sedofftaken_eeg
+sub-NETICU03:
+    -sub-NETICU03_task-sedon1rest_eeg
+    -sub-NETICU03_task-sedofftaken_eeg
+    -sub-NETICU03_task-sedon1taken_eeg
+    -sub-NETICU03_task-sedoffrest_eeg
+sub-NETICU04:
+    -sub-NETICU04_task-sedon1taken_eeg
+    -sub-NETICU04_task-sedoffrest_eeg
+    -sub-NETICU04_task-sedofftaken_eeg
+    -sub-NETICU04_task-sedon1rest_eeg
+sub-NETICU05:
+    -sub-NETICU05_task-sedoffrest_eeg
+    -sub-NETICU05_task-sedon1taken_eeg
+    -sub-NETICU05_task-sedon1rest_eeg
+    -sub-NETICU05_task-sedofftaken_eeg
+sub-NETICU06:
+    -sub-NETICU06_task-sedon1taken_eeg
+    -sub-NETICU06_task-sedoffrest_eeg
+    -sub-NETICU06_task-sedofftaken_eeg
+    -sub-NETICU06_task-sedon1rest_eeg
+sub-NETICU08:
+    -sub-NETICU08_task-sedon2rest_eeg
+    -sub-NETICU08_task-sedofftaken_eeg
+    -sub-NETICU08_task-sedon2taken_eeg
+sub-NETICU11:
+    -sub-NETICU11_task-sedon1taken_eeg
+    -sub-NETICU11_task-sedoffrest_eeg
+    -sub-NETICU11_task-sedon1rest_eeg
+    -sub-NETICU11_task-sedofftaken_eeg
+sub-NETICU13:
+    -sub-NETICU13_task-sedon1taken_eeg
+    -sub-NETICU13_task-sedon1rest_eeg
+    -sub-NETICU13_task-sedofftaken_eeg
+    -sub-NETICU13_task-sedoffrest_eeg
+sub-NETICU15:
+    -sub-NETICU15_task-sedon1rest_eeg
+    -sub-NETICU15_task-sedon1taken_eeg
+    -sub-NETICU15_task-sedofftaken_eeg
+    -sub-NETICU15_task-sedoffrest_eeg
+sub-NETICU17:
+    -sub-NETICU17_task-sedofftaken_eeg
+    -sub-NETICU17_task-sedon1rest_eeg
+    -sub-NETICU17_task-sedoffrest_eeg
+    -sub-NETICU17_task-sedon1taken_eeg
+sub-NETICU18:
+    -sub-NETICU18_task-sedon1taken_eeg
+    -sub-NETICU18_task-sedoffrest_eeg
+    -sub-NETICU18_task-sedon1rest_eeg
+sub-NETICU19:
+    -sub-NETICU19_task-sedon1rest_eeg
+    -sub-NETICU19_task-sedon1taken_eeg
+    -sub-NETICU19_task-sedofftaken_eeg
+    -sub-NETICU19_task-sedoffrest_eeg
+sub-NETICU20:
+    -sub-NETICU20_task-sedoffrest_eeg
+-----------ERROR--------------------------------------- sub-NETICU20_task-sedoffscrambled_eeg (failed)
+    -sub-NETICU20_task-sedon1rest_eeg
+    -sub-NETICU20_task-sedon1taken_eeg
+sub-NETICU22:
+    -sub-NETICU22_task-sedon1taken_eeg
+    -sub-NETICU22_task-sedon1rest_eeg
+    -sub-NETICU22_task-sedoffrest_eeg
+    -sub-NETICU22_task-sedofftaken_eeg
+sub-NETICU24:
+    -sub-NETICU24_task-sedon1taken_eeg
+    -sub-NETICU24_task-sedon1rest_eeg
+    -sub-NETICU24_task-sedoffrest_eeg
+    -sub-NETICU24_task-sedofftaken_eeg
+sub-NETICU25:
+    -sub-NETICU25_task-sedon1taken_eeg
+    -sub-NETICU25_task-sedon1rest_eeg
+    -sub-NETICU25_task-sedoffrest_eeg
+sub-NETICU27:
+    -sub-NETICU27_task-sedon1taken_eeg
+    -sub-NETICU27_task-sedon1rest_eeg
+    -sub-NETICU27_task-sedofftaken_eeg
+    -sub-NETICU27_task-sedoffrest_eeg
+sub-NETICU28:
+    -sub-NETICU28_task-sedofftaken_eeg
+    -sub-NETICU28_task-sedon1taken_eeg
+    -sub-NETICU28_task-sedoffrest_eeg
+    -sub-NETICU28_task-sedon1rest_eeg
+sub-NETICU29:
+    -sub-NETICU29_task-sedon1rest_eeg
+    -sub-NETICU29_task-sedoffrest_eeg
+    -sub-NETICU29_task-sedon1taken_eeg
+    -sub-NETICU29_task-sedofftaken_eeg
+sub-NETICU30:
+    -sub-NETICU30_task-sedofftaken_eeg
+    -sub-NETICU30_task-sedon1rest_eeg
+    -sub-NETICU30_task-sedon1taken_eeg
+    -sub-NETICU30_task-sedoffrest_eeg
+sub-NETICU31:
+    -sub-NETICU31_task-sedofftaken_eeg
+    -sub-NETICU31_task-sedon2rest_eeg
+    -sub-NETICU31_task-sedon1taken_eeg
+    -sub-NETICU31_task-sedon1rest_eeg
+sub-NETICU33:
+    -sub-NETICU33_task-sedoffrest_eeg
+    -sub-NETICU33_task-sedon1taken_eeg
+    -sub-NETICU33_task-sedon1rest_eeg
+sub-NETICU38:
+    -sub-NETICU38_task-sedon1rest_eeg
+    -sub-NETICU38_task-sedon1taken_eeg
+sub-NETICU40:
+    -sub-NETICU40_task-sedoffrest_eeg
+    -sub-NETICU40_task-sedon1taken_eeg
+    -sub-NETICU40_task-sedon1rest_eeg
+    -sub-NETICU40_task-sedofftaken_eeg
+sub-NETICU41:
+    -sub-NETICU41_task-sedon1taken_eeg
+    -sub-NETICU41_task-sedon2taken_eeg
+    -sub-NETICU41_task-sedon2rest_eeg
+    -sub-NETICU41_task-sedon1rest_eeg
+    -sub-NETICU41_task-sedofftaken_eeg
+    -sub-NETICU41_task-sedoffrest_eeg
+sub-NETICU46:
+    -sub-NETICU46_task-sedon1taken_eeg
+    -sub-NETICU46_task-sedon1rest_eeg
